@@ -1,0 +1,6 @@
+C:\Users\abuzer\Documents\SharpDevelop Projects\yılan\yılan\obj\Debug\yılan.csprojResolveAssemblyReference.cache
+C:\Users\abuzer\Documents\SharpDevelop Projects\yılan\yılan\bin\Debug\yılan.exe.config
+C:\Users\abuzer\Documents\SharpDevelop Projects\yılan\yılan\bin\Debug\yılan.exe
+C:\Users\abuzer\Documents\SharpDevelop Projects\yılan\yılan\bin\Debug\yılan.pdb
+C:\Users\abuzer\Documents\SharpDevelop Projects\yılan\yılan\obj\Debug\yılan.exe
+C:\Users\abuzer\Documents\SharpDevelop Projects\yılan\yılan\obj\Debug\yılan.pdb
